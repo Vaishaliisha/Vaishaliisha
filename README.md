@@ -28,8 +28,8 @@ I love turning ideas into working circuits, writing clean code, and sharing my l
   Verilog-based finite state machine for a basic traffic light system  
   [`View Repo`](https://github.com/Vaishaliisha/Traffic-Light-FSM-Controller.git)
 
-- 💧 **Smart Irrigation System**  
-  ESP32 + Soil Moisture Sensor + Relay module to automate watering  
+-**🔢 4-Bit ALU  💡** 
+ Verilog-based 4-bit Arithmetic Logic Unit (ALU) that can perform basic arithmetic and logic operations.
   [`View Repo`](https://github.com/your-username/smart-irrigation-system)
 
 - 🌀 **PID Controller Simulation**  
