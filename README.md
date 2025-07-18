@@ -26,7 +26,7 @@ I love turning ideas into working circuits, writing clean code, and sharing my l
 #### ✅ Completed
 - 🛑 **Traffic Light FSM Controller**  
   Verilog-based finite state machine for a basic traffic light system  
-  [`View Repo`](https://github.com/your-username/traffic-light-fsm)
+  [`View Repo`](https://github.com/Vaishaliisha/Traffic-Light-FSM-Controller.git)
 
 - 💧 **Smart Irrigation System**  
   ESP32 + Soil Moisture Sensor + Relay module to automate watering  
