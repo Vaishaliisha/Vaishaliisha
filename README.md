@@ -31,7 +31,8 @@ I love turning ideas into working circuits, writing clean code, and sharing my l
 -  **🔢 4-Bit ALU  💡** 
  
    Verilog-based 4-bit Arithmetic Logic Unit (ALU) that can perform basic arithmetic and logic operations.
-  [`View Repo`](https://github.com/Vaishaliisha/-4-Bit-ALU.git)
+
+   [`View Repo`](https://github.com/Vaishaliisha/-4-Bit-ALU.git)
 
 - 🌀 **PID Controller Simulation**  
   Python simulation of PID response for basic control system modeling  
