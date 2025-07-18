@@ -35,7 +35,7 @@ I love turning ideas into working circuits, writing clean code, and sharing my l
 
 - 🌀 **PID Controller Simulation**  
   Python simulation of PID response for basic control system modeling  
-  [`View Repo`](https://github.com/your-username/pid-controller-simulation)
+  [`View Repo`](https://github.com/Vaishaliisha/-PID-Controller-Simulation.git)
 
 #### 🛠️ In Progress
 - ⚡ **Smart Energy Meter** (ESP32 + ACS712 + OLED + Wi-Fi Dashboard)
