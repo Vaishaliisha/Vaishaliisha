@@ -67,7 +67,7 @@ I love turning ideas into working circuits, writing clean code, and sharing my l
 
 📫 **Email**: vlariya2001@gmail.com
 🔗 **LinkedIn**: [linkedin.com/in/your-link](www.linkedin.com/in/vaishalilariya2001)  
-📁 **GitHub Projects**: [github.com/your-username](https://github.com/your-username)
+📁 **GitHub Projects**: [github.com/your-username](https://github.com/Vaishaliisha)
 
 ---
 
