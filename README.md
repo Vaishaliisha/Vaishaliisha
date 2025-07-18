@@ -28,9 +28,10 @@ I love turning ideas into working circuits, writing clean code, and sharing my l
   Verilog-based finite state machine for a basic traffic light system  
   [`View Repo`](https://github.com/Vaishaliisha/Traffic-Light-FSM-Controller.git)
 
--**🔢 4-Bit ALU  💡** 
- Verilog-based 4-bit Arithmetic Logic Unit (ALU) that can perform basic arithmetic and logic operations.
-  [`View Repo`](https://github.com/your-username/smart-irrigation-system)
+-  **🔢 4-Bit ALU  💡** 
+ 
+   Verilog-based 4-bit Arithmetic Logic Unit (ALU) that can perform basic arithmetic and logic operations.
+  [`View Repo`](https://github.com/Vaishaliisha/-4-Bit-ALU.git)
 
 - 🌀 **PID Controller Simulation**  
   Python simulation of PID response for basic control system modeling  
